@@ -75,15 +75,6 @@ namespace ColorCycle
         private void Timer2ElapsedHandler(object sender, EventArgs e)
         {
             Invoke(UpdateInfo);
-            //if (clickCount > maxClickCount)
-            //{
-            //    maxClickCount = clickCount;
-            //}
-
-            //MessageBox.Show($"Вы сделали {clickCount} кликов. Максимальное количество кликов: {maxClickCount}");
-
-            //clickCount = 0;
-            //button1.Text = "Click me to start the timer";
         }
 
         private void button1_Click(object sender, EventArgs e)
