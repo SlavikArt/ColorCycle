@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorCycle", "ColorCycle\ColorCycle.csproj", "{CBBF35E6-0612-47AB-8410-CC3BB6B5DB16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBF35E6-0612-47AB-8410-CC3BB6B5DB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBF35E6-0612-47AB-8410-CC3BB6B5DB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBF35E6-0612-47AB-8410-CC3BB6B5DB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBF35E6-0612-47AB-8410-CC3BB6B5DB16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB8D0071-8D1B-4DD5-89E7-9A2C7DBA537E}
+	EndGlobalSection
+EndGlobal
